@@ -5,7 +5,6 @@
 //  Created by MANAS VIJAYWARGIYA on 05/05/24.
 //
 
-
 import UIKit
 
 class GFSecondaryTitleLabel: UILabel {
