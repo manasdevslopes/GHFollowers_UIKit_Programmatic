@@ -1,0 +1,7 @@
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 41 02](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/166c5b55-88bf-4365-b832-c7b4397d72d2)
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 41 21](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/9faa842c-e6a3-4b83-8575-cb6f375a38c0)
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 41 34](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/ac39d029-c184-4076-97e1-11fd851c7583)
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 41 58](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/5bc5c017-3c01-4479-9c29-6ba6da5c4dd7)
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 42 09](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/ffa0dc2b-c6fa-40b9-bc41-727157af5966)
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 43 35](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/f5e3077f-efe4-4662-be23-a066c2c8bb3c)
+![Simulator Screen Shot - iPhone 14 - 2024-05-11 at 19 43 49](https://github.com/manasdevslopes/GHFollowers_UIKit_Programmatic/assets/43421834/b0a0ea71-b1dc-48a7-9334-7541299e9b2c)
